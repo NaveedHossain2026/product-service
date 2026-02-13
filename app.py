@@ -1,3 +1,5 @@
+# The Rust product-service was rewritten in Python with the assistance of Gemini AI
+
 import os
 from flask import Flask, jsonify
 from flask_cors import CORS
